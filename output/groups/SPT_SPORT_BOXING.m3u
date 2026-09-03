@@ -1,465 +1,477 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNwNndp5uA6AHuBrr5PWQkuzgdo.jpg" group-title="|SPT| SPORT BOXING",Mauricio Lara vs. Carlos Ornelas (2026)
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2140252.mkv&play_token=wsW8x1di7Z&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMT5NOYIzulwmLq7Y6NBa9gQ6nY.jpg" group-title="|SPT| SPORT BOXING",SPT - Mikaela Mayer vs. Chantelle Cameron (2026)
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2140253.mkv&play_token=Z0gfu9qdHM&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5G4YDVKnQb8p-E_BCH5EbTtcP7tWfdqiCYm3CBoO4jDBcCBxOxyB8uE&s=10" group-title="|SPT| SPORT BOXING",SPT - Jorge Mata vs. Ronaldo Ruelas (2026)
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2140251.mkv&play_token=P5yEkOsEgn&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMLraiIRc_6KU_K36bwRQGSYpN8cQeF_bqLlR6GNnabsEEtFvpdbE66-VF&s=10" group-title="|SPT| SPORT BOXING",SPT - Caroline Dubois vs. Amelia Moore (2026)
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2140250.mkv&play_token=bDPkStsdkk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWZX8Sz6xueiNUaSR5orM9re8w6.jpg" group-title="|SPT| SPORT BOXING",SPT - Moses Itauma vs. Filip Hrgovic (2026)
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2140249.mkv&play_token=jJKHHlffnz&type=movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ISsuRYqK5_BPnOVRf2QFQLQQSl_PKy5hnwELn133bv5W0g5qiWT2ETc&s=10" group-title="|SPT| SPORT BOXING",SPT - Constantin Ursu vs. Ben Vaughan (2026)
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2140248.mkv&play_token=reCJfWkjAQ&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcxDDY0WQLIFEaHZehIgPoG6p9kFfp8dfbx_4R6kgyQ&s=10" group-title="|SPT| SPORT BOXING",SPT - Troy Isley vs. Joseph Hicks (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2130124.mkv&play_token=r7kGqhNwZi&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2130124.mkv&play_token=6ntSD9ix1j&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ67Soi3NQv8XVw0mhNp2fdIthZ.jpg" group-title="|SPT| SPORT BOXING",SPT - Teremoana Teremoana vs. DeAndre Savage (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2130123.mkv&play_token=F52asvRmuQ&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2130123.mkv&play_token=OOr9kwgc4L&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6h2ZtnwqCAUgYTvlhf1Dof3ldX3FMFA8GNSR3p6krjPtBHtNgbOfJHXk&s=10" group-title="|SPT| SPORT BOXING",SPT - Desley Robinson vs. Tamm Thibeault (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2130122.mkv&play_token=F5rIJvPlV4&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2130122.mkv&play_token=zxiY44ZzdG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YeIfExQ6W2luU0Gps0ITl0D3M2.jpg" group-title="|SPT| SPORT BOXING",SPT - Claressa Shields vs. Kaye Scott (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2130121.mkv&play_token=xY3Kyuwmt4&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2130121.mkv&play_token=I2XaaAcyGA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsPArO4jS7TZcl8bahI3TDn7QYU.jpg" group-title="|SPT| SPORT BOXING",SPT - Aaron McKenna vs. Etinosa Oliha - Zuffa Boxing 10 (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2130120.mkv&play_token=fB0HOJKXDm&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2130120.mkv&play_token=BLeHSF1iKq&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3gZslVXXx4lkW8qlUmMzZrRc98M3bDlcBIf-RrjXkxA&s=10" group-title="|SPT| SPORT BOXING",SPT - Raymond Muratalla vs. Robson Conceicao (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2127642.mkv&play_token=xJOmSLoyL4&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2127642.mkv&play_token=0gjRQY9RTQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clfeUCNpqtBraIZMgJkHXhF4vt9.jpg" group-title="|SPT| SPORT BOXING",SPT - Pierce O’Leary vs. Mark Chamberlain (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2127641.mkv&play_token=FjQPBOxykr&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2127641.mkv&play_token=WQm6iYCEkO&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjaWIYryDlUrRNHDyH2a4K8MwhTNPo1KZ4JUHNiaFMngUvrYnO6_Iehdo&s=10" group-title="|SPT| SPORT BOXING",SPT - Lamont Roach vs. William Zepeda Segura (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2127639.mkv&play_token=auUmabjtcw&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2127639.mkv&play_token=qHKkTeJyep&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1A23GRtd-pidh3yKPnfkpdk7-51S3JDQQKdGGTG4Qg7Cmx1N3e2ZO2itS&s=10" group-title="|SPT| SPORT BOXING",SPT - Kraus vs Ibrahim (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2127638.mp4&play_token=pPemWMZvDS&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2127638.mp4&play_token=AUPGi9fMcO&type=movie
 #EXTINF:-1 tvg-logo="https://www.boxingnews24.com/wp-content/uploads/2026/08/Emanuel-Carillo-Jr-vs.-Taylor.jpeg" group-title="|SPT| SPORT BOXING",SPT - Emmanuel Carrillo Jr vs. Kenneth Taylor (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2127637.mkv&play_token=aJxXU7dLMa&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2127637.mkv&play_token=WyVs8cyLHq&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfWChwx5SMJboc9vx3UvR-iNdVIcgT6BQftR5E47Bsdt26bibYthC85EYP&s=10" group-title="|SPT| SPORT BOXING",SPT - Charles Conwell vs. Paul Kroll (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2127636.mkv&play_token=gb2B2BMQpO&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2127636.mkv&play_token=JMo7OdUj6l&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjfazI-TV5L_LfEfV_NsPkAwvD77ygwCTWXyPExfo28Q&s=10" group-title="|SPT| SPORT BOXING",SPT - Adam Olaniyan vs. Deepak Pathak (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2127635.mkv&play_token=Wxati0APob&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2127635.mkv&play_token=mDdEVpsKVU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Tqeu3ME1l7oueulQdX4aa2Wla7.jpg" group-title="|SPT| SPORT BOXING",SPT - Anthony Joshua vs. Kristian Prenga (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2120269.mkv&play_token=siP8jahDWO&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2120269.mkv&play_token=XeTHRXigao&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFpG4Rphr63REISvt8IBcDg4KwEjZhB2ev1udlmpkGYzJsdYG48Kml3I&s=10" group-title="|SPT| SPORT BOXING",SPT - Kieran Molloy vs. Sean Noakes (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2116187.mkv&play_token=Hl1kOhzD6s&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2116187.mkv&play_token=rqKdnPWr6s&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mCmJnmGxR8TlA9NIZJSEroAN7q.jpg" group-title="|SPT| SPORT BOXING",SPT - Harlem Eubank vs. David Papot (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2116186.mkv&play_token=uZIk5IWgYc&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2116186.mkv&play_token=IRqax41tul&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxCVel1ZZY5ISJFH5gt9kI8FuLg.jpg" group-title="|SPT| SPORT BOXING",SPT - Diego Pacheco vs. Immanuwel Aleem (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2116185.mkv&play_token=mlqraWDA2q&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2116185.mkv&play_token=WkKqgKkKPi&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTJTsF8CLi8ynJnTw3Rplakc7t9j8g9I-IhCw_a8XZ9C43oj2Nl7t8b9Em&s=10" group-title="|SPT| SPORT BOXING",SPT - Andy Cruz vs. Abraham Montoya (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2116184.mkv&play_token=KCJ2BMYGmA&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2116184.mkv&play_token=TtBscnxqU0&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRww4M0B_Ht15XGavYS2HHYbTa-8JWDYKzkpYreus2GCXkAYPUT1ociEs8m&s=10" group-title="|SPT| SPORT BOXING",SPT - Albert Gonzalez vs. Aaron Alameda (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2116183.mkv&play_token=slIFA9bap7&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2116183.mkv&play_token=dGyAPbHm7e&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbT38Zi0FP-f1EDTNKgNOLwpNDFf99PbqKBVUkrgwQhHS8ncSIlonQYGA&s=10" group-title="|SPT| SPORT BOXING",SPT - Delante Johnson vs. Christopher Guerrero (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2113444.mkv&play_token=XLa4ZdL7Cq&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2113444.mkv&play_token=0Ep9nBczcT&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62-fOarAM7ZWYYmrkUjYVHzfiC0h-S7BJfSNpR-4FLRfAHOqkRL3kfQM&s=10" group-title="|SPT| SPORT BOXING",SPT - Bruce Carrington vs. Rene Palacios (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2113443.mkv&play_token=kBOGo0iUsZ&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2113443.mkv&play_token=CeYjhTXpxA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zg3DPspM8xFrHdNDgEmjYcROQrY.jpg" group-title="|SPT| SPORT BOXING",SPT - Abdullah Mason vs. Albert Bell (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2113442.mkv&play_token=jnyC30vi2U&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2113442.mkv&play_token=7llpggIE3V&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNLqfJN4m9Y3IqEtvz2Btseea3.jpg" group-title="|SPT| SPORT BOXING",SPT - Xander Zayas vs. Jaron Ennis (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2104345.mkv&play_token=IdEXMjFa0n&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2104345.mkv&play_token=2kFN8DxH3J&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2SlZ4azTp_SkMSHWD5TLElq0jHLaCuGOb7Q&s" group-title="|SPT| SPORT BOXING",SPT - Jahi Tucker vs. Euri Cedeno (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2104344.mkv&play_token=qEPYT5p1LJ&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2104344.mkv&play_token=C434N8GRXL&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbPgzMyAlsC8JvE3REnxrzYhhbs2oe2qOXQ&s" group-title="|SPT| SPORT BOXING",SPT - Emiliano Vargas vs. Bryce Mills (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2104343.mkv&play_token=i62powmU1b&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2104343.mkv&play_token=T2irVY6iLI&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbCtsFL6bEQcDAmcSutavuNokF65xuqNVww&s" group-title="|SPT| SPORT BOXING",SPT - Ben Whittaker vs. Richard Rivera (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2104342.mkv&play_token=wuVBqmCAEX&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2104342.mkv&play_token=FdF1pwsL9F&type=movie
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/GveFa4i4IoCFEW5-koqDWDTOnBFsoBdxpqFj8lcdsAudZNqbQjQ-DT7ZcTZ5-0mbkVQ9yJsCissZ4w=s1350-nd-v1" group-title="|SPT| SPORT BOXING",SPT - Yair Gallardo vs. Buneet Singh Bisla (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2100634.mkv&play_token=jBQjBLE4bs&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2100634.mkv&play_token=8hGPhPKaFb&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ramqNBSjJ5NSL4K5zc3HHpSBGC1.jpg" group-title="|SPT| SPORT BOXING",SPT - Ryan Garner vs. Michael Magnesi (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2100633.mkv&play_token=NQP5PUi58o&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2100633.mkv&play_token=L7frAMRwgu&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvF1pRz1ysew_fJ9Rt0ZznCH9kT9ExVOmv9LBF87-0Q&s" group-title="|SPT| SPORT BOXING",SPT - Oscar Collazo vs. Neider Valdez Aguilar (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2100632.mkv&play_token=AkJpO4gapc&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2100632.mkv&play_token=K2J0tfYeRt&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9K0symFNCehMpXieG581Mjq3dqxwNEAb-XvLUyIxmQceME5JlKZPiOwb5&s=10" group-title="|SPT| SPORT BOXING",SPT - Lyndon Arthur vs. Lewis Edmondson (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2100631.mkv&play_token=bobFhMfCJs&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2100631.mkv&play_token=Qq6wFtvWWY&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xb3Y46bKwoVGfG1upnMiTEtL5NbJPZQPq_KBbqFD4ycfcEYRrEgjm34&s=10" group-title="|SPT| SPORT BOXING",SPT - Ernesto Mercado vs. Juan Carlos Burgos (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2100630.mkv&play_token=gBM1l9CVg5&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2100630.mkv&play_token=vBjYC5xTsi&type=movie
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HITT4JDXkAAInTV.jpg" group-title="|SPT| SPORT BOXING",SPT - Brad Pauls vs. Bradley Goldsmith (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2100629.mkv&play_token=YQJGunKidN&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2100629.mkv&play_token=V91PEf19b3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZMkXjfitmjV9MbhAadFgCQrp7Q.jpg" group-title="|SPT| SPORT BOXING",SPT - Ashton Sylve vs. Joseph Diaz Jr. (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2100628.mkv&play_token=vAnv2ZWr9V&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2100628.mkv&play_token=xjAKJNOn4e&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Zpqc3Zz84L45nYSyuNAKOmkDBg.jpg" group-title="|SPT| SPORT BOXING",SPT - Tommy Fury vs. Eddie Hall (Prelims) (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2096593.mp4&play_token=G8vIPBO3X5&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2096593.mp4&play_token=Xw8EyUkzvJ&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0nnlOtTt_k3b1yJE72noj76GvofBfXG2_Q&s" group-title="|SPT| SPORT BOXING",SPT - Stephen McKenna vs. Casey James Streeter (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2089673.mkv&play_token=YAuJFKdRSL&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2089673.mkv&play_token=bdYB871x8P&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTflLEYovvSpycxMV1giYTonl6VKJqTbTYYkw&s" group-title="|SPT| SPORT BOXING",SPT - Omari Jones vs. Diego Zuniga (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2089672.mkv&play_token=WETwNPf557&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2089672.mkv&play_token=0wrRfTNNt2&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Ww4qyKi4sEZHIM-YQAFZJdy-oc4T-qCyWQ&s" group-title="|SPT| SPORT BOXING",SPT - Leo Atang vs. Fouad Shaili (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2089671.mkv&play_token=HQc8kwksvC&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2089671.mkv&play_token=4GVXO64uhf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11LernBsx3JWuANLb7PnJWLicvr.jpg" group-title="|SPT| SPORT BOXING",SPT - Josh Padley vs. Aqib Fiaz (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2089670.mkv&play_token=y2OJhWFdeG&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2089670.mkv&play_token=TK3irqrnue&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReDhdQsHG-_rcBJ1mFCaX2_e_C3PgnMH6sBg&s" group-title="|SPT| SPORT BOXING",SPT - Jack Massey vs. Cheavon Clarke (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2089669.mkv&play_token=YMLxFfkH4h&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2089669.mkv&play_token=z0oQViz3Y5&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsRwvYpVNGCoTFd8EviIk7Xrtkvg9Aw-clFA&s" group-title="|SPT| SPORT BOXING",SPT - Stephanie Han vs. Holly Holm II (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2085463.mkv&play_token=6no9ItqRjy&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2085463.mkv&play_token=1ThwnAeA0d&type=movie
 #EXTINF:-1 tvg-logo="https://wbcboxing.com/wp-content/uploads/2026/04/Lulu-cuerpo.jpeg" group-title="|SPT| SPORT BOXING",SPT - Lourdes Juarez vs. Yokasta Valle (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2085462.mkv&play_token=tZ4Qqa9vy3&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2085462.mkv&play_token=BQ6WhKC8Ou&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L6n9VIa7z7NrSaXi8DTOFxdIKRug_Z8jYg&s" group-title="|SPT| SPORT BOXING",SPT - Francesca Hennessy vs. Aurora De Persio (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2085461.mkv&play_token=jQfMc0gK2H&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2085461.mkv&play_token=ZwaFEMSt5D&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsHlbIJx3Yth1YQi5xOTnEYuMsL.jpg" group-title="|SPT| SPORT BOXING",SPT - Adam Azim vs. Steve Claggett (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2085460.mkv&play_token=Vd9l4sDNhA&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2085460.mkv&play_token=WaDfjG9vdo&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RGlVewdtu5woNgJyKloLv3sOMH.jpg" group-title="|SPT| SPORT BOXING",SPT - Oleksandr Usyk vs. Rico Verhoeven (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2079793.mkv&play_token=AJ6y8BHiTr&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2079793.mkv&play_token=iHFhtbYvsF&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtAt8EfD-WrvziWCC59VgMDt5B8g6Fc-xo6w&s" group-title="|SPT| SPORT BOXING",SPT - Jack Catterall vs. Shakhram Giyasov (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2079792.mkv&play_token=9nV4cI84tr&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2079792.mkv&play_token=tk4Va1HttG&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlTO8Xp0Rz10gS3OOm0TvcPP8RUVjiQFt5pA&s" group-title="|SPT| SPORT BOXING",SPT - Daniel Lapin vs. Benjamin Mendes Tani (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2079791.mkv&play_token=jarLyzcPQF&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2079791.mkv&play_token=5phkFCecRi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RGlVewdtu5woNgJyKloLv3sOMH.jpg" group-title="|SPT| SPORT BOXING",Oleksandr Usyk vs. Rico Verhoeven (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2079687.mkv&play_token=MmuITCvtun&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2079687.mkv&play_token=HmPPbFj0cg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnzE5dvUUMYQVoOyiaZt2YbMk5q.jpg" group-title="|SPT| SPORT BOXING",SPT - Fabio Wardley vs. Daniel Dubois (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2070313.mkv&play_token=UQ96hv0CQt&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2070313.mkv&play_token=Kunty32RoF&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tA0R9zaQxrC4HxeOlJ3GDoInusO.jpg" group-title="|SPT| SPORT BOXING",SPT - David Benavidez vs. Gilberto Ramirez (2026)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2067834.mkv&play_token=5qZVBKB8Xd&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=2067834.mkv&play_token=eXJ8iHb0yu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBtg3zae2qH7NWppwYDlbUcwzDq.jpg" group-title="|SPT| SPORT BOXING",SPT - Jake Paul vs. Anthony Joshua (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1990536.mp4&play_token=XTfyMZWdfZ&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1990536.mp4&play_token=nPfUeiLkBJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBtg3zae2qH7NWppwYDlbUcwzDq.jpg" group-title="|SPT| SPORT BOXING",Jake Paul vs. Anthony Joshua (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1990051.mkv&play_token=7NVYrYL8xz&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1990051.mkv&play_token=PIVb5MXhl3&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUft5UaSIbmfCqsundwE4bTSACuZUmXivYqQ&s" group-title="|SPT| SPORT BOXING",SPT - Serhii Bohachuk vs. Brandon Adams II (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1932918.mkv&play_token=VVOpz5TBTi&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1932918.mkv&play_token=fhAH5AHgBH&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtIOqR03bLGo2V8FWgyCeGciR0xre_PBmRDA&s" group-title="|SPT| SPORT BOXING",SPT - Ivan Dychko vs. Jermaine Franklin Jr (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1932917.mkv&play_token=bqMdi86TMY&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1932917.mkv&play_token=p0b09EGZA8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cm0Dd5sQJgIR8R8rr6Pl30uOG1b.jpg" group-title="|SPT| SPORT BOXING",SPT - Canelo Álvarez vs. Terence Crawford (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914845.mkv&play_token=kpn7qTejE8&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914845.mkv&play_token=RNYXAhetTD&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQomxQpg1udk_urazeD3XzDI8tl6esIg3Vltw&s" group-title="|SPT| SPORT BOXING",SPT - Zak Miller vs. Leon Woodstock (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914212.mkv&play_token=gsTNNOmRTw&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914212.mkv&play_token=LInUWZMpnV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0vLf2668y5DLOr3HgWmF2BjDZy.jpg" group-title="|SPT| SPORT BOXING",SPT - Pat McCormack vs. Miguel Parra (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914211.mkv&play_token=WMbFPW28Si&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914211.mkv&play_token=NkTW5nzPQN&type=movie
 #EXTINF:-1 tvg-logo="https://eottm.com/wp-content/uploads/2025/07/20250924_EOTTM_4x5_FR-scaled.jpg" group-title="|SPT| SPORT BOXING",SPT - Osleys Iglesias vs. Vladimir Shishkin (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914210.mkv&play_token=V5kXyKGjZX&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914210.mkv&play_token=HTvhCGoGqf&type=movie
 #EXTINF:-1 tvg-logo="https://boxingnews.com/wp-content/uploads/20250903_114543.jpg" group-title="|SPT| SPORT BOXING",SPT - Mark Dickinson vs. Troy Williamson (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914209.mkv&play_token=exo5gIgzfm&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914209.mkv&play_token=2ZGYLcV5tq&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUR27VsOvQc6W7MqsODRDymHsDlcp1MsScmg&s" group-title="|SPT| SPORT BOXING",SPT - Leo Atang vs. Cristian Uwaka (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914208.mkv&play_token=ONnLmLbTAG&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914208.mkv&play_token=dkXUJclfJW&type=movie
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GvGLE7PXgAAKLI0.jpg:large" group-title="|SPT| SPORT BOXING",SPT - Joe Cordina vs. Jaret Gonzalez Quiroz (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914207.mkv&play_token=UUOBcIf8TO&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914207.mkv&play_token=oPb02JTUxq&type=movie
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GzLqTvuWgAAQ-UZ?format=jpg&name=large" group-title="|SPT| SPORT BOXING",SPT - Jack Turner vs. Nicolas Agustin Muguruza (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914206.mkv&play_token=duizlnm7dP&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914206.mkv&play_token=29EtPK4Vn6&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgQvkDeXtWYGG1604diYB3TawSUTpOsCa-gw&s" group-title="|SPT| SPORT BOXING",SPT - Eduardo Nunez vs. Christopher Diaz-Velez (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914205.mkv&play_token=vYAhEmJyIP&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914205.mkv&play_token=c5zPUlIERs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcKB873TAcgj6EkRwPBv6zcOdyT.jpg" group-title="|SPT| SPORT BOXING",SPT - Anthony Olascuaga vs. Juan Carlos Camacho (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914204.mkv&play_token=qRrkRrn86k&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1914204.mkv&play_token=yontb8Tu5g&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GKxjEsIbCGfYlMHOLcE7hZYgwt.jpg" group-title="|SPT| SPORT BOXING",SPT - Ryan Garner vs. Reece Bellotti (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1895054.mkv&play_token=kLOTzF8tfb&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1895054.mkv&play_token=dpBbs1rbT7&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicFu08zmzpQjSnL_P8Rh5IJyxjE4C4y735EyOVooa2yotpyjBTctv2sN5ejJzDEevTLg&usqp=CAU" group-title="|SPT| SPORT BOXING",SPT - Regis Prograis vs. Joseph Diaz (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1895053.mkv&play_token=xKaHmLYUoC&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1895053.mkv&play_token=Xcn4FOSu5F&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CXb8wwR2JhGC7u7JTLhLSNrPO4.jpg" group-title="|SPT| SPORT BOXING",SPT - Oscar Duarte vs. Kenneth Sims Jr. (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1895052.mkv&play_token=5TioVpyct6&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1895052.mkv&play_token=bx3yOAQFfe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jj3xsyaPeZ0wYXtBYi2VK6sBqGI.jpg" group-title="|SPT| SPORT BOXING",SPT - Kenshiro Teraji vs. Ricardo Sandoval (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1895051.mkv&play_token=FNYDl44jFo&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1895051.mkv&play_token=ZBCDiosgbq&type=movie
 #EXTINF:-1 tvg-logo="https://boxingnews.com/wp-content/uploads/20250724_100409.jpg" group-title="|SPT| SPORT BOXING",SPT - Aloys Youmbi vs. Ellis Zorro (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1895050.mkv&play_token=qskmO7hyBj&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1895050.mkv&play_token=h1LN3vbPdg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7r2bKwHC47Uz7X1ThBLZObvzqTR.jpg" group-title="|SPT| SPORT BOXING",SPT - Xander Zayas vs. Jorge Garcia Perez (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888165.mkv&play_token=PQ0CEQ4lCM&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888165.mkv&play_token=TENgJltjDe&type=movie
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/6654c88f22981ae93116a799/6865b44d3f478d15f5226a64_Vladyslav%20Sirenko%20Solomon%20Dacres%20Wembley3.webp" group-title="|SPT| SPORT BOXING",SPT - Vladyslav Sirenko vs. Solomon Dacres (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888164.mkv&play_token=1TvTzQi4aS&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888164.mkv&play_token=baJwTiaOQA&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs7SBxTCrwlsdQf0h0ECN0S1gqcYy-e3X-vg&s" group-title="|SPT| SPORT BOXING",SPT - Rohan Polanco vs. Quinton Randall (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888163.mkv&play_token=N3BID1nOxg&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888163.mkv&play_token=tb6QYHzJHi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRZYADvRxcEPgKf4GkFuvDHx28t.jpg" group-title="|SPT| SPORT BOXING",SPT - Manuel Flores vs. Jorge Chavez (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888162.mkv&play_token=uQNK4lCOjj&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888162.mkv&play_token=sUN7LgiqNT&type=movie
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/6654c88f22981ae93116a799/6849a34aad17114bf713a2e6_Lawrence-Okolie-Kevin-Lerena-London-Wembley2.webp" group-title="|SPT| SPORT BOXING",SPT - Lawrence Okolie vs. Kevin Lerena (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888161.mkv&play_token=CCBHsJgLSd&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888161.mkv&play_token=XwekkF601R&type=movie
 #EXTINF:-1 tvg-logo="https://boxing-master.com/wp-content/uploads/2025/07/Isaac-Cruz-vs.-Omar-Salcido.jpg" group-title="|SPT| SPORT BOXING",SPT - Isaac Cruz vs. Omar Salcido (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888160.mkv&play_token=ussU0mj1UJ&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888160.mkv&play_token=PvOKAlGvMg&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk99x84FW0quJGQOcyND8GzsGsRSPxVWp2Mw&s" group-title="|SPT| SPORT BOXING",SPT - Emiliano Vargas vs. Alexander Espinoza (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888159.mkv&play_token=u7F3qe8DBW&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888159.mkv&play_token=6pCRa4vyb2&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlaVDe6bDS2Jx7jWgs8ABoTtA3juRpRefj5Q&s" group-title="|SPT| SPORT BOXING",SPT - Bruce Carrington vs. Mateus Heita (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888158.mkv&play_token=3hR8ecbNaD&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888158.mkv&play_token=k11OeF3NKX&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVt-YiPNLZFU5NhdaRuCj5tKdg94REQkKQgg&s" group-title="|SPT| SPORT BOXING",SPT - Brandon Figueroa vs. Joet Gonzalez (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888157.mkv&play_token=xRJ8CE5a44&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888157.mkv&play_token=P51PHG62sf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmlzKQ2nUKiM003nNK2oDX4qARN.jpg" group-title="|SPT| SPORT BOXING",SPT - Jack Catterall vs. Harlem Eubank (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888156.mkv&play_token=wCusFSTG9a&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888156.mkv&play_token=c1wmVpyCJc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igFVVInW3U8vFW7ALCzScEmzJnJ.jpg" group-title="|SPT| SPORT BOXING",SPT - Manny Pacquiao vs. Mario Barrios (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888155.mkv&play_token=sSO0bc1mZM&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1888155.mkv&play_token=0oPR59TcpG&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttZJQDfKlnUWmH9RVt7eRiurxKi.jpg" group-title="|SPT| SPORT BOXING",SPT - Oleksandr Usyk vs. Daniel Dubois II (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1884479.mkv&play_token=0ZetuhyOLD&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1884479.mkv&play_token=niOB43PPNu&type=movie
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GumIxQvXEAAR2CE.jpg:large" group-title="|SPT| SPORT BOXING",SPT - Sergiy Derevyanchenko vs. Jeremy Ramos (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1878170.mkv&play_token=S2y0BsZI3i&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1878170.mkv&play_token=EJEdS2kgpR&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM2Xkk9sF1EXgoAPxkqQmBsfjSSannYvKumg&s" group-title="|SPT| SPORT BOXING",SPT - Pat Brown vs. Lewis Oakford (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1878169.mkv&play_token=f5C8JMFqGu&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1878169.mkv&play_token=jLFX2QtWko&type=movie
 #EXTINF:-1 tvg-logo="https://image-cdn.essentiallysports.com/wp-content/uploads/Joe-Cordina-Jaret-Gonzalez-Quiroz.png?width=600" group-title="|SPT| SPORT BOXING",SPT - Joe Cordina vs. Jaret Gonzalez Quiroz (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1878168.mkv&play_token=A5RXmY47HO&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1878168.mkv&play_token=aEDvYJFfy9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sveRqmD1TFMUgjsECsZ51abx81S.jpg" group-title="|SPT| SPORT BOXING",SPT - Jake Paul vs. Julio Cesar Chavez Jr (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1878167.mkv&play_token=7r8acp3ZfI&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1878167.mkv&play_token=nFVKO23Ywk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmlzKQ2nUKiM003nNK2oDX4qARN.jpg" group-title="|SPT| SPORT BOXING",SPT - Jack Catterall vs. Harlem Eubank (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1878166.mkv&play_token=Ef7oJ23dxg&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1878166.mkv&play_token=tGOHk4EfPx&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS45_lvIiDTtuiKVF6xx-3vclO-9VH-hvCO1JxMmRXkoHN67uFv3kKaPPvsfs05kHX6ySU&usqp=CAU" group-title="|SPT| SPORT BOXING",SPT - Evan Holyfield vs. LaTreveon Grant (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1878165.mkv&play_token=a87mvHRox3&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1878165.mkv&play_token=kPhbKudG5B&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmlzKQ2nUKiM003nNK2oDX4qARN.jpg" group-title="|SPT| SPORT BOXING",SPT - Jack Catterall vs. Harlem Eubank (2025 07 05 FULL CARD) (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1878164.mkv&play_token=0NhflLnCQF&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1878164.mkv&play_token=knVI3916ZX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sveRqmD1TFMUgjsECsZ51abx81S.jpg" group-title="|SPT| SPORT BOXING",SPT - Jake Paul vs. Julio Cesar Chavez Jr (2025 07 05 FULL CARD) (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1878163.mkv&play_token=ATr3C9kY6O&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1878163.mkv&play_token=CS1BY9YH7I&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRF3rGhsrw4W7p9TC2DjG7KsdDu.jpg" group-title="|SPT| SPORT BOXING",SPT - Albert Batyrgaziev vs. James Dickens (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1878162.mkv&play_token=8WrAzZqMqI&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1878162.mkv&play_token=3eM7BQG9H8&type=movie
 #EXTINF:-1 tvg-logo="https://content.api.news/v3/images/bin/6ccc5e1e120e728f58e32f9624b30dfd" group-title="|SPT| SPORT BOXING",SPT - Teremoana Teremoana vs. Aleem Whitfield (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872082.mkv&play_token=D5qkHi9KqX&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872082.mkv&play_token=9kcIH6fn6t&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukAOctWC0PwzVN9nxQlyucOkjcW.jpg" group-title="|SPT| SPORT BOXING",SPT - Richardson Hitchins vs. George Kambosos Jr. (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872081.mkv&play_token=es6KE90MBG&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872081.mkv&play_token=EV9duERvsB&type=movie
 #EXTINF:-1 tvg-logo="https://ringside24.com/media/cache/06/24/062425a613bc889b278701b9f566c0ee.jpg" group-title="|SPT| SPORT BOXING",SPT - Petro Frolov vs. Saulo Morales Saldivar (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872080.mkv&play_token=gK2d7rpSUZ&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872080.mkv&play_token=I9D6zON7Rs&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvYv8bl-Tr9esaAp56i6gENL2pEWh6ZfzcoA&s" group-title="|SPT| SPORT BOXING",SPT - Pat Brown vs. Ivan Duka (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872079.mkv&play_token=vglMTje6JW&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872079.mkv&play_token=ZahuTYuRMQ&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRiZC2Pv27C1_w7U-cVWUkWDGTCfGSx3yXSg&s" group-title="|SPT| SPORT BOXING",SPT - Mujibillo Tursunov vs. Alan Ezequiel Dutra (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872078.mkv&play_token=cr6jLMPXua&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872078.mkv&play_token=Wm15yewh4R&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ntgccH6s9nthAk_qqJP_znKYT6RbuF3_Kg&s" group-title="|SPT| SPORT BOXING",SPT - Maksym Molodan vs. Ephrem Bariko (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872077.mkv&play_token=Q5mq63zFkL&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872077.mkv&play_token=hNOdNYFSXd&type=movie
 #EXTINF:-1 tvg-logo="https://www.boxing247.com/wp-content/uploads/2025/06/081A4110.jpg" group-title="|SPT| SPORT BOXING",SPT - Galal Yafai vs. Francisco Rodriguez Jr (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872076.mkv&play_token=sxYDvvT7xT&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872076.mkv&play_token=h75cyRU05O&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjrR-XJ1JR4mN9GKjzQAGWje4b8FJ3bVAiZw&s" group-title="|SPT| SPORT BOXING",SPT - Dmytro Rybalko vs. Mohammad Issa (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872075.mkv&play_token=GiTtf3wWuh&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872075.mkv&play_token=eILO0HfDXe&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1LN_ASy8vsRp5UkfadIlKUOrzIcoSiua74g&s" group-title="|SPT| SPORT BOXING",SPT - Danylo Lozan vs. Eric Basran (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872074.mkv&play_token=gj3fKgabZB&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872074.mkv&play_token=8VNtlRwXtu&type=movie
 #EXTINF:-1 tvg-logo="https://media.gettyimages.com/id/1958539480/photo/belfast-northern-ireland-conah-walker-v-lloyd-germain-at-the-ulster-hall-on-january-27-2024.jpg?s=612x612&w=gi&k=20&c=HKUO99Wkv7290na3e13FsGpOAd4REnQ-YaKSS8T6Fho=" group-title="|SPT| SPORT BOXING",SPT - Conah Walker vs. Liam Taylor (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872073.mkv&play_token=txtK1qUbmB&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872073.mkv&play_token=bKW1M35Thd&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAKPbQDrhXhj7NNNrm5mS2OBxqz.jpg" group-title="|SPT| SPORT BOXING",SPT - Brian Norman Jr vs. Jin Sasaki (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872072.mkv&play_token=7MKl6mWBt4&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872072.mkv&play_token=91OjQeQXah&type=movie
 #EXTINF:-1 tvg-logo="https://www.boxingnews24.com/wp-content/uploads/2025/06/Cruz-vs-mishiro22.jpeg" group-title="|SPT| SPORT BOXING",SPT - Andy Cruz vs. Hironori Mishiro (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872071.mkv&play_token=P4fWY5aY1C&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1872071.mkv&play_token=24OtKYZZCf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxfq8ExkL3mw9MG4uElvggIYeCK.jpg" group-title="|SPT| SPORT BOXING",SPT - ONE Friday Fights 112: Singdomthong vs. Ondash (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1868482.mp4&play_token=PJIj8modNr&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1868482.mp4&play_token=kbOeHE1XyG&type=movie
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GsCvOKXXQAABX-k.jpg:large" group-title="|SPT| SPORT BOXING",SPT - Nelson Hysa vs. Patrick Korte (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1868481.mkv&play_token=Fi9Wfwjc6V&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1868481.mkv&play_token=Wl7xQ9kcir&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRxtpkQnstO1e9vT0vpJvkvjXAy.jpg" group-title="|SPT| SPORT BOXING",SPT - Junto Nakatani vs. Ryosuke Nishida (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1868480.mkv&play_token=xZk4mDqS1X&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1868480.mkv&play_token=aPvKwd3P8b&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BGcISzmbsIu12ubQ5herR0i6NC.jpg" group-title="|SPT| SPORT BOXING",SPT - Jai Opetaia vs. Claudio Squeo (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1868479.mkv&play_token=clBsSf4yx9&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1868479.mkv&play_token=oeE46wyWpA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPE1QxqTMkJJfqzEaxeCZ7XUcbu.jpg" group-title="|SPT| SPORT BOXING",SPT - Fabio Wardley vs. Justis Huni (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1868478.mkv&play_token=o9OzfJg0Tr&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1868478.mkv&play_token=4HnsE0tQ74&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNkL4C0sFOBqES2s2qb0bKUrUE5.jpg" group-title="|SPT| SPORT BOXING",SPT - Abdullah Mason vs. Jeremia Nakathila (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1868477.mkv&play_token=lMnkRmAaf2&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1868477.mkv&play_token=7dJhd5xA3E&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq3afVzlF24HrmaCEv_2TlkXwIoxrgPDgdlA&s" group-title="|SPT| SPORT BOXING",SPT - Nathaniel Collins vs. Lee McGregor (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1858222.mkv&play_token=vazEoI9Te2&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1858222.mkv&play_token=wzsUq8bUU7&type=movie
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/6654c88f22981ae93116a799/67f805d3834842ebbec66c4d_Moses-Itauma-Mike-Balogun-Glasgow.webp" group-title="|SPT| SPORT BOXING",SPT - Moses Itauma vs. Mike Balogun (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1858221.mkv&play_token=tGlUcGWF2k&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1858221.mkv&play_token=jipO0dbPhU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3TlJj7yXGtCxzFuHZFUcaIlntU.jpg" group-title="|SPT| SPORT BOXING",SPT - Josh Taylor vs. Ekow Essuman (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1858220.mkv&play_token=QBf9AAyH6g&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1858220.mkv&play_token=PxRzt5VJIZ&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyNHFDzZ7bWvx1-6HBpsA8uZsPV0SdQAEcpQ&s" group-title="|SPT| SPORT BOXING",SPT - Aloys Youmbi vs. David Jamieson (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1858219.mkv&play_token=VozLaGQAPn&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1858219.mkv&play_token=nGXUHylmI5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Sh8GkqftZGxRzCNlto7TBuWuyp.jpg" group-title="|SPT| SPORT BOXING",SPT - Sam Goodman vs. Cesar Vaca Espinoza (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1853781.mkv&play_token=w9vDagmaTb&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1853781.mkv&play_token=rwXWmh6Y99&type=movie
 #EXTINF:-1 tvg-logo="https://images.tapology.com/poster_images/124170/profile/5xv32jk.jpg?1746682801" group-title="|SPT| SPORT BOXING",SPT - Nicklaus Flaz vs. Alan Sanchez (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1853780.mkv&play_token=9hB5wTPiHB&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1853780.mkv&play_token=TPdm7JO72B&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLbezeUrtuAQYrB5lV1HhMVH7l8zemD5UC0g&s" group-title="|SPT| SPORT BOXING",SPT - Najee Lopez vs.  Juan Gerardo Osuna (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1853779.mkv&play_token=AGkKueKz3c&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1853779.mkv&play_token=uN9WguWvUr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzoHN3AxnMEnoUhQOBf4SSYF1jN.jpg" group-title="|SPT| SPORT BOXING",SPT - Erickson Lubin vs. Ardreal Holmes Jr (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1853778.mkv&play_token=cI7I7UB1xt&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1853778.mkv&play_token=X6Q60IGR22&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sL4xiTu7fT8qcXhVoyKNi1Q5O8P.jpg" group-title="|SPT| SPORT BOXING",SPT - Anthony Cacace vs. Leigh Wood (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1853777.mkv&play_token=uJ7JBlo14T&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1853777.mkv&play_token=54xzGHadDs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUl4KmykgrLB1F2JQmWS7BmXCm5.jpg" group-title="|SPT| SPORT BOXING",SPT - Tommy Fury vs. Kenan Hanjalic (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1851069.mkv&play_token=nPDHFxCrRv&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1851069.mkv&play_token=mm9p9KyCZB&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkU8gx7enawN4yIMyxdBh8EYJ1SQrgAIffOw&s" group-title="|SPT| SPORT BOXING",SPT - Roman Fury vs. Josip Pehar (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1851068.mkv&play_token=Gt0VUPYtEF&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1851068.mkv&play_token=2JOCwHdMtc&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS792F6hJKAHG2IfkgISiViKckpfp4UvPxt3A&s" group-title="|SPT| SPORT BOXING",SPT - Raymond Muratalla vs. Zaur Abdullaev (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1851067.mkv&play_token=ZE54rG7Lgn&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1851067.mkv&play_token=tkMl0TDaKS&type=movie
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9LMvtqioozs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD1A5Vtp27sI4gY3sneJ7XR0lBjuw" group-title="|SPT| SPORT BOXING",SPT - Ezra Taylor vs. Troy Jones (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1851066.mkv&play_token=SxQbLaWu6C&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1851066.mkv&play_token=8tz6ZMg8Rc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1ChSXQ2T04Tqa797r5Cz3ezTk8.jpg" group-title="|SPT| SPORT BOXING",SPT - Emanuel Navarrete vs. Charly Suarez (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1851065.mkv&play_token=1eiaq0WUiM&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1851065.mkv&play_token=gswfy0qdS9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUn4pbmQilXXh5F13yEmrQO4tHG.jpg" group-title="|SPT| SPORT BOXING",SPT - Canelo Alvarez vs. William Scull (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1847091.mkv&play_token=wveF0snM6a&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1847091.mkv&play_token=uDcQUTeatW&type=movie
 #EXTINF:-1 tvg-logo="https://fr.apanews.net/wp-content/uploads/sites/2/2025/03/474543645_1019188313560544_2673120650094962643_n.jpg" group-title="|SPT| SPORT BOXING",SPT - Martin Bakole vs. Efe Ajagba (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1847090.mkv&play_token=NYdhJxzOgU&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1847090.mkv&play_token=T0S1zq2xLQ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkW5YNbkvyaS9abcYM55HULyZuR.jpg" group-title="|SPT| SPORT BOXING",SPT - Jaime Munguia vs. Bruno Surace II (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1847089.mkv&play_token=HfT5C7aAWp&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1847089.mkv&play_token=TJimgR9rmW&type=movie
 #EXTINF:-1 tvg-logo="https://www.boxinginsider.com/wp-content/uploads/2025/05/Badou-Jack.jpg" group-title="|SPT| SPORT BOXING",SPT - Badou Jack vs. Norair Mikaeljan (2025)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1847088.mkv&play_token=SSKX7nne3Q&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1847088.mkv&play_token=Lb0r2SCOGX&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIHny9aCEi5I7DdPxewwxQTsQ2g.jpg" group-title="|SPT| SPORT BOXING",SPT - Oleksandr Usyk vs. Tyson Fury II (2024)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1736646.mkv&play_token=uXh6t48Dxv&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1736646.mkv&play_token=oEB6slitZO&type=movie
 #EXTINF:-1 tvg-logo="http://51.158.145.100/stalker_portal/screenshots/173/17233.jpg" group-title="|SPT| SPORT BOXING",SPT - Jake Paul vs. Mike Tyson (2024)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1716512.mkv&play_token=cikypiKvIG&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1716512.mkv&play_token=0ZPyswjoFM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZqlRhJBcuHNQgoxC8phKgWC6W8.jpg" group-title="|SPT| SPORT BOXING",NL - Jake Paul vs. Mike Tyson (2024)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1708422.mkv&play_token=8AFjJqqw33&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1708422.mkv&play_token=8h3TyPeMMu&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_AG0WGcOyGfLLnwgoB5nuuFeg_6T1_FSHcQ&s" group-title="|SPT| SPORT BOXING",SPT - Ben Whittaker vs Ezra Arenyeka FULL FIGHT (2024)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1664735.mp4&play_token=jAEJTiVM23&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1664735.mp4&play_token=FS8YhxHthw&type=movie
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-RCgWlWaeqQ/sddefault.jpg" group-title="|SPT| SPORT BOXING",SPT- UFC Tuesday Night Contender Series S08W06 (2024)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1650577.mkv&play_token=FMFEDKQb5V&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1650577.mkv&play_token=u5g3dJS8Rz&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGwczlLqc9r7VEP6X73anCkQUQM.jpg" group-title="|SPT| SPORT BOXING",SPT - Anthony Joshua vs. Daniel Dubois (2024)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1650573.mp4&play_token=mMscaMFLtq&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1650573.mp4&play_token=eAFnBOP8ek&type=movie
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7hBSIxR6ZUP5bIv1BMsvCf5PEK6OcsEqYJg&s" group-title="|SPT| SPORT BOXING",SPT - Tyler Denny Vs. Hamzah Sheeraz (2024)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1650572.mkv&play_token=wgl6332lB0&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1650572.mkv&play_token=P1LWS4u5WR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGwczlLqc9r7VEP6X73anCkQUQM.jpg" group-title="|SPT| SPORT BOXING",SPT - Anthony Joshua vs. Daniel Dubois 4K (2024)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1650571.mkv&play_token=JE6zcqycoN&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1650571.mkv&play_token=FrRt85s21b&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGwczlLqc9r7VEP6X73anCkQUQM.jpg" group-title="|SPT| SPORT BOXING",SPT - Anthony Joshua vs. Daniel Dubois Full Fight Highlights Extended HD
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1650570.mp4&play_token=emObamd0jk&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1650570.mp4&play_token=AYHMinYoCR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wk9TmF9dApjYXjZxYjjaQYfIrB2.jpg" group-title="|SPT| SPORT BOXING",SPT - Danny Aarons vs. Danny Simpson (2024)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1645878.mp4&play_token=6DtsR4LNfx&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1645878.mp4&play_token=dd70z03KpR&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIvuj33GFsuPlD33U1RomFdDqFv.jpg" group-title="|SPT| SPORT BOXING",SPT - Canelo Alvarez vs. Edgar Berlanga (2024)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1645877.mp4&play_token=QOHQpN0wnQ&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1645877.mp4&play_token=ywzdXNKbSA&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/150/14988.jpg" group-title="|SPT| SPORT BOXING",SPT - Tyson Fury vs. Oleksandr Usyk (2024)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1532105.mp4&play_token=28ao9fzxvW&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1532105.mp4&play_token=dft3wAgRXZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mE8TI183NOZOhAovFN02lS1w6pZ.jpg" group-title="|SPT| SPORT BOXING",SPT - Anthony Joshua vs. Francis Ngannou (2024)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1468199.mkv&play_token=zxuPYAS3Yc&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1468199.mkv&play_token=SdjsnOvgma&type=movie
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Glory_Logo.jpg" group-title="|SPT| SPORT BOXING",GB-DAZN Joshua vs Ngannou Knockout (08-03-2024)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1468123.ts&play_token=jhqVp98kvJ&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1468123.ts&play_token=XjHYlKGBre&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoMrnBbnWDcAqfuexCYFwDzxXMv.jpg" group-title="|SPT| SPORT BOXING",SPT - Anthony Joshua vs. Otto Wallin (2023)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1411942.mkv&play_token=NcIZ6edlcT&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1411942.mkv&play_token=T3EuM9hB4P&type=movie
 #EXTINF:-1 tvg-logo="https://bigfightweekend.com/wp-content/uploads/2023/12/Arslanbek-Makhmudov-vs.-Agit-Kabayel.jpeg" group-title="|SPT| SPORT BOXING",SPT - Arslanbek Makhmudov vs. Agit Kabayel (2023)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1411943.mkv&play_token=8VzrJPBhum&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1411943.mkv&play_token=Xdh56KptFf&type=movie
 #EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/PHeSyt-CcyeKfSsYbgpZESqeuAk=/0x0:5536x3691/1200x800/filters:focal(2255x0:3139x884)/cdn.vox-cdn.com/uploads/chorus_image/image/72992790/1875061922.0.jpg" group-title="|SPT| SPORT BOXING",SPT - Deontay Wilder vs. Joseph Parker (2023)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1411945.mkv&play_token=QNrt9TQDH3&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1411945.mkv&play_token=3L0UAnlMAt&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWOwZ8cAKnVnZKzUk6ymVpnBdA3.jpg" group-title="|SPT| SPORT BOXING",SPT - Dmitry Bivol vs. Lyndon Arthur (2023)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1411946.mkv&play_token=UKWjGAK0Q4&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1411946.mkv&play_token=wikvKJYhRC&type=movie
 #EXTINF:-1 tvg-logo="https://www.boxing247.com/wp-content/uploads/2018/10/Photo-15-11-2023-19-14-49-boxing-photo.jpg" group-title="|SPT| SPORT BOXING",SPT - Filip Hrgovic vs. Mark De Mori (2023)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1411947.mkv&play_token=elqgTcskpH&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1411947.mkv&play_token=NSWxzfV6Gq&type=movie
 #EXTINF:-1 tvg-logo="https://www.boxing247.com/wp-content/uploads/2023/12/0K8A8838.jpg" group-title="|SPT| SPORT BOXING",SPT - Frank Sanchez vs. Junior Fa (2023)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1411948.mp4&play_token=U4KYDiHGvI&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1411948.mp4&play_token=CHpLNJuHD8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9hw1m3QfUq95UEuEPfG9V5QUfD.jpg" group-title="|SPT| SPORT BOXING",SPT - Jake Paul vs. Andre August (2023)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1394754.mp4&play_token=jzf2f5KWxO&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1394754.mp4&play_token=6eaeUVrz8s&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTbm0O2YhYCOpii3iB8bAAVDsac.jpg" group-title="|SPT| SPORT BOXING",SPT - Devin Haney vs. Regis Prograis (2023)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1390200.mp4&play_token=lNK3e3whH8&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1390200.mp4&play_token=Dv3PuCdXW6&type=movie
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/5ace6264b44a335996ece39d/64fa3cdad9e9287cdf993dc3_F5c4fYTaYAAaP81.webp" group-title="|SPT| SPORT BOXING",SPT - Justis Huni vs. Andrew Tabiti (28-10-2023) (2023)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1357911.mp4&play_token=z8RyepLxON&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1357911.mp4&play_token=bfAmEv46Sk&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4805aKOzPtS6fq06eoHHBfUVBaU.jpg" group-title="|SPT| SPORT BOXING",SPT - O’Shaquie Foster vs. Eduardo Hernandez (2023)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1357374.mp4&play_token=Q4VRT1p7a6&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1357374.mp4&play_token=JtitthUs9p&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcFyavUcaIos3FiDSFSGCBPc75x.jpg" group-title="|SPT| SPORT BOXING",SPT - Tyson Fury vs. Francis Ngannou (2023)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1357099.mkv&play_token=UcNyi9ctOM&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1357099.mkv&play_token=oWEfp5P1N9&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vLrNMZTO9Qu0FI0rxhhlaqE1On.jpg" group-title="|SPT| SPORT BOXING",SPT - Canelo Alvarez vs. Jermell Charlo (2023)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1344410.mkv&play_token=jwdWj0KQyg&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1344410.mkv&play_token=j94GKGXEFs&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKDO5smSMdpbeOXKT9U0K94ukvO.jpg" group-title="|SPT| SPORT BOXING",SPT - Mike Tyson vs. Roy Jones Jr. (2020)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1320396.mp4&play_token=XzD1Lagqib&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1320396.mp4&play_token=qW7UxTH1jx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JN041F4Ch7MRWT4vjYnW1VgEZK.jpg" group-title="|SPT| SPORT BOXING",SPT - Jake Paul vs. Nate Diaz (2023)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1312282.mkv&play_token=bFD1auI1gk&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1312282.mkv&play_token=u4gouzsN40&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOtyQenJUSDJXYU7rngOLRyq9xs.jpg" group-title="|SPT| SPORT BOXING",SPT - Errol Spence Jr. vs. Terence Crawford (2023)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1307440.mp4&play_token=bZ1cF2Plhu&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1307440.mp4&play_token=vPVIDt48xV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEncvFGb1kFBBZgM5irihkXHSBq.jpg" group-title="|SPT| SPORT BOXING",SPT - Gervonta Davis vs. Ryan Garcia (2023)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1179868.mkv&play_token=Qx2NvTnlSU&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1179868.mkv&play_token=96DgNlgKY8&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLq89T5alwxaLgd40hpPIpbF0LH.jpg" group-title="|SPT| SPORT BOXING",SPT - Tyson Fury vs Derek Chisora III (2022)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1067638.mkv&play_token=oW41Oo1a4d&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=1067638.mkv&play_token=uzBf6V2Srf&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1l7AOpt0bAokocjhFw62HRAy9HV.jpg" group-title="|SPT| SPORT BOXING",SPT - Anthony Joshua vs Kubrat Pulev
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837876.mp4&play_token=TYuviw3JPt&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837876.mp4&play_token=OaYJnJYPZD&type=movie
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/photos/red-boxing-glove-picture-id1006291908?k=20&m=1006291908&s=612x612&w=0&h=4Mu4AmP8m_33fpM_mNRpI3O4bimwMyXrhye_HQHKwps=" group-title="|SPT| SPORT BOXING",SPT - Austin mcbroom vs Bryce hall
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837877.mp4&play_token=Ns7PYeCQHX&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837877.mp4&play_token=2ytlsRyUCd&type=movie
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/photos/red-boxing-glove-picture-id1006291908?k=20&m=1006291908&s=612x612&w=0&h=4Mu4AmP8m_33fpM_mNRpI3O4bimwMyXrhye_HQHKwps=" group-title="|SPT| SPORT BOXING",SPT - Campbell Hatton Vs Levi Dunn
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837878.mp4&play_token=l262qnBamW&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837878.mp4&play_token=8zUH4jgIB5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2TdayeIgL5vggYK3dV2fycajLF.jpg" group-title="|SPT| SPORT BOXING",SPT - Canelo Alvarez vs. Avni Yildirim
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837879.mp4&play_token=x1Pv7ZTcbW&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837879.mp4&play_token=dFY2GJEJ0X&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k76o3C1GmE6b2ietK0F6tQ7lQ0A.jpg" group-title="|SPT| SPORT BOXING",SPT - Canelo Alvarez vs. Caleb Plant  (2021)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837898.mp4&play_token=LbDp59eNmz&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837898.mp4&play_token=n3ipiooIFN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGbY4CCYzohABnpYLHdkw67ogM0.jpg" group-title="|SPT| SPORT BOXING",SPT - Canelo Alvarez vs Callum Smith
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837880.mp4&play_token=gvKThOHH6p&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837880.mp4&play_token=JzzcuJ86nO&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT -  Canelo vs Saunders
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837881.mp4&play_token=93nc1MzrdO&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837881.mp4&play_token=n9PAChzcT7&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT - Chris Eubank Jr vs Marcus Morrison
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837882.mp4&play_token=v66hilJqRI&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837882.mp4&play_token=IE9ayqZ8Vi&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZUT6DEXioRea1ZstpxDuA2ySwB.jpg" group-title="|SPT| SPORT BOXING",SPT - Deontay Wilder vs. Tyson Fury III  (2021)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837899.mp4&play_token=qMvcOVq8Lk&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837899.mp4&play_token=U24jl3iQrc&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5iDzD1KMrGtD1imoYxf6EBRJqq.jpg" group-title="|SPT| SPORT BOXING",SPT - Derek Chisora Vs Joseph Parker
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837883.mp4&play_token=aV4LZ8uYgj&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837883.mp4&play_token=8ncUInjkhn&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vM9UUfwXXnbymbHkEn4gpwEbXUY.jpg" group-title="|SPT| SPORT BOXING",SPT - Dillian Whyte vs. Alexander Povetkin
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837884.mp4&play_token=cecp6z0HZw&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837884.mp4&play_token=yobMegek3B&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT - Gennadiy Golovkin vs Kamil Szeremeta
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837886.mp4&play_token=juKIFYbzO2&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837886.mp4&play_token=awCa9KoQVW&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT - Jake Paul vs. Nate Robinson
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837888.mp4&play_token=eNbYqlIqTM&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837888.mp4&play_token=5mCQlKuUNx&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtKo4KnRRKEOP2pxKN4T0d99iWp.jpg" group-title="|SPT| SPORT BOXING",SPT - Jake Paul vs. Tyron Woodley 2  (2021)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837900.mp4&play_token=SiRcJGXxn1&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837900.mp4&play_token=2HDcoqE2KU&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtKo4KnRRKEOP2pxKN4T0d99iWp.jpg" group-title="|SPT| SPORT BOXING",SPT - Jake Paul vs. Tyron Woodley 2  (2021)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837901.mp4&play_token=NwrYKD9cVO&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837901.mp4&play_token=QJ9LhMxZjo&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT - Jermell Charlo vs Brian Castano
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837902.mp4&play_token=wsLWBj3Bks&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837902.mp4&play_token=QwSN5GH6yS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KQkkO5YYnIXhWa6pP4n1OtfSbQ.jpg" group-title="|SPT| SPORT BOXING",SPT - Jose Ramirez vs Josh Taylor  (2021)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837903.mp4&play_token=WVlkv2u17a&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837903.mp4&play_token=iWhQGxRSOe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97RDttPtqgIhwGHLRNAcO3dScAg.jpg" group-title="|SPT| SPORT BOXING",SPT - Joshua vs Usyk  (2021)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837875.mp4&play_token=tzafs10Qu9&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837875.mp4&play_token=ukuCWBgdtN&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT - Kid Galahad vs Jazza Dickens 2
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837904.mp4&play_token=uhcTQ6CmEM&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837904.mp4&play_token=j2rMN8O2AT&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTBEjZl6JaroVcAiKcVqo7J2BK6.jpg" group-title="|SPT| SPORT BOXING",SPT - Manny Pacquiao vs. Yordenis Ugás  (2021)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837905.mp4&play_token=FPg0w8HOy5&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837905.mp4&play_token=PIuV11mnvO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhYqHvjiyBLCfiZWgzJ5TXjFpDh.jpg" group-title="|SPT| SPORT BOXING",SPT - Mayweather vs. McGregor
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837891.mp4&play_token=dJNqurLwQf&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837891.mp4&play_token=o2ET0aeG4u&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cjNlDuOfg0CJfdb8LkIfe6FN2B.jpg" group-title="|SPT| SPORT BOXING",SPT - Mayweather vs. Paul
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837885.mp4&play_token=8UCHTpa68D&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837885.mp4&play_token=N8XaZnxYsE&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKDO5smSMdpbeOXKT9U0K94ukvO.jpg" group-title="|SPT| SPORT BOXING",SPT - Mike Tyson vs. Roy Jones Jr.
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837892.mp4&play_token=KiaRqEOYCm&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837892.mp4&play_token=MjLC7noV0h&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT -  Oleksandr Usyk vs Derek Chisora
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837893.mp4&play_token=TjmH8e7JpJ&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837893.mp4&play_token=SZFAhHEXkV&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOGVFby1Daycsem5RxIrObTG1Fv.jpg" group-title="|SPT| SPORT BOXING",SPT - Oscar Valdez vs. Robson Conceicao  (2021)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837906.mp4&play_token=NxuzrDLMpD&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837906.mp4&play_token=qzwygrocLg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15dmlF8RSPBuk5qG3nUCyaTLrbZ.jpg" group-title="|SPT| SPORT BOXING",SPT - Parker vs Chisora II  (2021)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837907.mp4&play_token=YcHObbwQYO&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837907.mp4&play_token=3pcnVGYMWX&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT - Shakur Stevenson VS Felix Caraballo
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837894.mp4&play_token=f9F7SifesU&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837894.mp4&play_token=QBxhcKJLH3&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJpUDax3qiosalnkVQv0oQN5G8C.jpg" group-title="|SPT| SPORT BOXING",SPT - Terence Crawford vs. Kell Brook
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837895.mp4&play_token=ZhvAQSjKtY&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837895.mp4&play_token=RF0X2txsxS&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFxHnZhetfHpXlcYTNTFZFt6pBq.jpg" group-title="|SPT| SPORT BOXING",SPT - Triller Fight Club: Jake Paul vs Ben Askren
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837887.mp4&play_token=BKkN95T9MD&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837887.mp4&play_token=fnJhJKxOX0&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a38ygESdQCB8Pqui5UGI0xgPZbk.jpg" group-title="|SPT| SPORT BOXING",SPT - Vasyl Lomachenko vs. Teófimo López
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837896.mp4&play_token=1K1ys4gH2p&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837896.mp4&play_token=qHx1j1MO8p&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT -  XUCan vs Leigh Wood
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837897.mp4&play_token=DWPxzAOiMb&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837897.mp4&play_token=OZ5xSIIdcm&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT Katie Taylor vs. Natasha Jonas
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837889.mp4&play_token=1iHYOe2GMh&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=837889.mp4&play_token=unguVHXPhv&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DhiQ8svrwlfvUdTQmBCpwmbGlm.jpg" group-title="|SPT| SPORT BOXING",SPT - Deontay Wilder vs. Tyson Fury III (2021)
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=741938.mkv&play_token=B3DgFqWt1Y&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=741938.mkv&play_token=QQluM8CyTM&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOJbTBXT7zrhWJlDzy8WoMh7frm.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing.2021.09.25.anthony.joshua.vs.oleksandr.usyk
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=729810.mkv&play_token=Z6vr3Sej1z&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=729810.mkv&play_token=TQ1oRo7S0m&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing 2019.07.20
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=703359.mkv&play_token=A1dPT6TKw7&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=703359.mkv&play_token=de1ZMRMv4n&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing   2020.22.02
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=703360.mkv&play_token=HA7nbUFLcT&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=703360.mkv&play_token=8keDBxkFJr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNw564k1pJzoPMFh1aAUWbQEFbw.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing 2020 11 28 Jake Paul Vs Nate Robinson
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=656860.mkv&play_token=BBE4UXfPoG&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=656860.mkv&play_token=FwgpvF61tr&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aj2lZvgwbVzwbivcxEZ7F3veK4H.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing: .Derek.Chisora.Vs.Joseph.Parker.2021.05.0
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=651248.mkv&play_token=ub1Xnq3x7B&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=651248.mkv&play_token=GNie4X4s6F&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aj2lZvgwbVzwbivcxEZ7F3veK4H.jpg" group-title="|SPT| SPORT BOXING",SPT  - Boxing Canelo.Alvarez.vs.Billy.Joe.Saunders..2021.05.08.
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=651249.mkv&play_token=CWVA3woh3g&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=651249.mkv&play_token=toBvk4oIOj&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing Canelo Alvarez vs Callum Smith 2020.12.19
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=651247.mkv&play_token=ddrmOe0jko&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=651247.mkv&play_token=d4q4YprxC2&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing - Tyson vs. Jones 2020-11-28
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=650366.mkv&play_token=mzGsoyTUI9&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=650366.mkv&play_token=GY61gmqaLJ&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing.2020.11.28.Mike.Tyson.Vs.Roy.Jones.
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=650368.mkv&play_token=uACX7jnYxM&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=650368.mkv&play_token=FiH5uFlVH6&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing.2021.05.08.Canelo.Alvarez.vs.Billy.Joe.Saunders
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=650371.mkv&play_token=dQtpt0sE4g&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=650371.mkv&play_token=D3qOlBRGPK&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aj2lZvgwbVzwbivcxEZ7F3veK4H.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing: Davis vs Barrios
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=650372.mkv&play_token=pu1S3p8N8s&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=650372.mkv&play_token=CYRy6yfU1g&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNw564k1pJzoPMFh1aAUWbQEFbw.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing  Anthony Joshua Vs. Kubrat Pulev
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=650369.mkv&play_token=jtjkkcWktZ&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=650369.mkv&play_token=4q5evfI462&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing Canelo.Alvarez.vs.Callum.Smit h2020.12.19.
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=650370.mkv&play_token=sTuayXhgtI&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=650370.mkv&play_token=Ss0QI9qtIy&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNw564k1pJzoPMFh1aAUWbQEFbw.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing Mike Tyson vs. Roy jones
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=650367.mkv&play_token=EIeyDVRG13&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=650367.mkv&play_token=Rz0PPOByCK&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing.2020.01.31.luke.keeler.vs.demetrius.andrade
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=136824.mp4&play_token=31s44ekSwI&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=136824.mp4&play_token=wNhJTxi36Z&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing.2020.01.31.jake.paul.vs.anesongib
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=136823.mp4&play_token=xRIKqxhz0k&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=136823.mp4&play_token=YK0mvcOMtU&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing.2020.01.11.Jaime.Munguia.vs.Spike.Osullivan
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=136822.mp4&play_token=6NYpovK2Ga&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=136822.mp4&play_token=Kv8aXsFCJ9&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 12 23 moruti mthalane vs akira yaegashi
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112348.mp4&play_token=UIXr7X5SaD&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112348.mp4&play_token=YSNVm0Vm3y&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 12 23 roman gonzalez vs diomel diocos
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112349.mp4&play_token=36FHKTlWoy&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112349.mp4&play_token=TbgI3LLy1I&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 12 23 ryota murata vs steven butler
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112350.mp4&play_token=6nU2X2eRxb&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112350.mp4&play_token=nppTuInisq&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 12 06 nathaniel may vs bruno tarimo
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112345.mp4&play_token=zcd1HFGHMU&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112345.mp4&play_token=XAJu27bYtj&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 12 06 tim tszyu vs jack brubaker
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112346.mp4&play_token=58sCILFutD&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112346.mp4&play_token=BqjnEJwGXk&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 12 23 kenshiro teraji vs randy petalcorin
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112347.mp4&play_token=d7VIXU6i9j&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112347.mp4&play_token=811hhxIXF6&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 11 23 Callum Smith vs John Ryder
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112342.mp4&play_token=diwtZ1fxxz&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112342.mp4&play_token=QNRkvaHt9W&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 11 30 arnold barboza jr vs william silva
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112343.mp4&play_token=XfkuUOp1st&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112343.mp4&play_token=srG0xZjq8m&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 11 30 brian mendoza vs larry gomez
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112344.mp4&play_token=leo9Xd0OeB&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112344.mp4&play_token=e0Q5fstlD4&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 11 09 Devin Haney Vs Alfredo Santiago
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112341.mp4&play_token=ezTgOFgcXC&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=112341.mp4&play_token=UGq5aq8SE9&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 12 14 edgar berlanga vs cesar nunez
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111791.mkv&play_token=anegaoxww0&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111791.mkv&play_token=yzqImwlWt5&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 12 20 Daniel Jacobs vs Julio Cesar Chaves Jr
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111792.mkv&play_token=OthbQHSqZN&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111792.mkv&play_token=54jsKFh4nb&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 12 20 Julio Cesar Martinez vs Cristofer Rosales
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111793.mkv&play_token=PNHcQbukXW&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111793.mkv&play_token=Q27YdFnXLc&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 11 30 andy hiraoka vs rogelio casarez
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111782.mkv&play_token=PIlBGiWhBX&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111782.mkv&play_token=HciRjAAGaa&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 11 30 carlos adames vs patrick teixeira
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111783.mkv&play_token=nbsEpA2KDJ&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111783.mkv&play_token=Ni7qn5OcTB&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 11 30 xander zayas vs virgel windfield
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111785.mkv&play_token=QOgjsk5or5&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111785.mkv&play_token=2xFa9Skf62&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 12 06 darcy lussick vs justin hodges
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111786.mkv&play_token=44GQLRluy0&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111786.mkv&play_token=56BLVB13le&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 12 06 luke boyd vs masing warawara
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111787.mkv&play_token=7nOH5diPhO&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111787.mkv&play_token=NVpJksY6Nm&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 12 06 trent broadhurst vs david light
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111788.mkv&play_token=RxUgFKrkOt&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111788.mkv&play_token=bDy3GLBRKA&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 12 07 Andy Ruiz Jr Vs Anthony Joshua
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111789.mkv&play_token=0CX0P4svMe&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111789.mkv&play_token=C01GjVTekw&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 12 07 Tom Little Vs Magomedrasul Majidov
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111790.mkv&play_token=2K10XRexVV&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111790.mkv&play_token=momLLsXdTw&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxking (2019) 11 30 guido vianello vs colby madison
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111784.mkv&play_token=4DCUU5k89Q&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111784.mkv&play_token=5GNTt5UrR9&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 11 07 jerwin ancajas vs miguel gonzalez
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111777.mkv&play_token=KIJIKm9qph&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111777.mkv&play_token=ebyI9oZ1GE&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 11 09 Devin Haney Vs Alfredo Santiago
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111778.mkv&play_token=tbD7eo7B6F&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111778.mkv&play_token=alAfXFCjjD&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 11 09 KSI Vs Logan Paul
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111779.mkv&play_token=w5H2wabttO&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111779.mkv&play_token=ou9DhGpmmX&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 11 15 martin murray vs sladan janjanin
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111780.mkv&play_token=ynGcGAZpd4&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111780.mkv&play_token=GGCrH16kAo&type=movie
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7387.jpg" group-title="|SPT| SPORT BOXING",SPT - Boxing (2019) 11 23 Andrew Cancio vs Rene Alvarado
-http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111781.mkv&play_token=JvuURhgezs&type=movie
+http://mag.trexlive.me:80/play/movie.php?mac=00:1A:79:7A:9D:68&stream=111781.mkv&play_token=cpXnQwLPiX&type=movie
